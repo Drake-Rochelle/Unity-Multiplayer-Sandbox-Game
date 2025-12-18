@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/scenes/Main Menu.unity
+    guid: 5702d4ae640e3e34b8be7ae2e4d9a6f4
+  - enabled: 1
+    path: Assets/scenes/Multiplayer Loading.unity
+    guid: a031c96b1cbb36247aa4ba93be989655
+  - enabled: 1
+    path: Assets/scenes/Settings.unity
+    guid: 4c902f7bb30e4c94f87cc6c233340cce
+  - enabled: 1
+    path: Assets/scenes/Lobby.unity
+    guid: 9590adcae1c47bf45ab428c0a2b315d5
+  - enabled: 1
+    path: Assets/scenes/Play Game.unity
+    guid: e0d0cff4d06e1ad47b24529714fb064f
+  - enabled: 1
+    path: Assets/scenes/Failed To Connect.unity
+    guid: 0b7a2ed3078370a4b9672531f96cf74d
+  - enabled: 1
+    path: Assets/scenes/Game.unity
+    guid: 8124e5870f4fd4c779e7a5f994e84ad1
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 35845fe01580c41289b024647b1d1c53, type: 3}
+  m_UseUCBPForAssetBundles: 0
